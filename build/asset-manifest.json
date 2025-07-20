@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.c104d321.js",
-    "index.html": "/index.html",
-    "main.c104d321.js.map": "/static/js/main.c104d321.js.map"
+    "main.js": "/DashboardAutoci/static/js/main.c104d321.js",
+    "index.html": "/DashboardAutoci/index.html",
+    "main.c104d321.js.map": "/DashboardAutoci/static/js/main.c104d321.js.map"
   },
   "entrypoints": [
     "static/js/main.c104d321.js"
