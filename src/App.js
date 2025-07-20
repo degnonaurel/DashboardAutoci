@@ -15,7 +15,7 @@ function App() {
   const [selectedBrands, setSelectedBrands] = useState([]);
 
   useEffect(() => {
-    fetch("/export_voitures_12mois_10marques.csv")
+    fetch(process.env.PUBLIC_URL +"/export_voitures_12mois_10marques.csv")
       .then((res) => res.text())
       .then((text) => {
         const rows = text.trim().split("\n").slice(1);
