@@ -1,0 +1,14 @@
+{
+  "title": "Tableau de bord des exportations de voitures",
+  "chart1_title": "Prix moyen des voitures par marque",
+  "chart2_title": "Nombre de voitures exportées par mois",
+  "select_month": "Sélectionner un mois",
+  "select_fuel": "Sélectionner le type de carburant",
+  "lang": "Langue",
+  "carburant": {
+    "Essence": "Essence",
+    "Diesel": "Diesel",
+    "Hybride": "Hybride",
+    "Électrique": "Électrique"
+  }
+}

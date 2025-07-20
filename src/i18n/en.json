@@ -1,0 +1,14 @@
+{
+  "title": "Car Export Dashboard",
+  "chart1_title": "Average car price per brand",
+  "chart2_title": "Number of cars exported by month",
+  "select_month": "Select a month",
+  "select_fuel": "Select fuel type",
+  "lang": "Language",
+  "carburant": {
+    "Essence": "Gasoline",
+    "Diesel": "Diesel",
+    "Hybride": "Hybrid",
+    "Électrique": "Electric"
+  }
+}
